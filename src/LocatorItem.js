@@ -21,3 +21,5 @@ class LocatorItem extends ZeaEngine.GeomItem {
     resize();
   }
 }
+
+export { LocatorItem }
