@@ -2,7 +2,7 @@
   "name": "@wrenchcoach/locator-item",
   "filename": "locator-item",
   "libraryName": "LocatorItem",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "LocatorItem.js",
   "license": "MIT",
   "scripts": {
