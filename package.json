@@ -2,9 +2,12 @@
   "name": "@wrenchcoach/locator-item",
   "filename": "locator-item",
   "libraryName": "LocatorItem",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "LocatorItem.js",
   "license": "MIT",
+  "files": [
+    "/dist/locator-item.js"
+  ],
   "scripts": {
     "build:dev": "webpack --watch --config webpack-dev.config.js",
     "build": "webpack --config webpack-prod.config.js",
